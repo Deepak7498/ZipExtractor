@@ -1,0 +1,5 @@
+D:\Gcube work\Published\lms\ZipExtractor\ZipExtractor.exe
+D:\Gcube work\Published\lms\ZipExtractor\ZipExtractor.dll
+D:\Gcube work\Published\lms\ZipExtractor\ZipExtractor.deps.json
+D:\Gcube work\Published\lms\ZipExtractor\ZipExtractor.runtimeconfig.json
+D:\Gcube work\Published\lms\ZipExtractor\ZipExtractor.pdb

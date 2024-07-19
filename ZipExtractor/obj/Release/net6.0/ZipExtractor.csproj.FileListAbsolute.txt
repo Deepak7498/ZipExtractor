@@ -1,0 +1,29 @@
+D:\Personal Project\ZipExtractor\ZipExtractor\bin\Release\net6.0\ZipExtractor.exe
+D:\Personal Project\ZipExtractor\ZipExtractor\bin\Release\net6.0\ZipExtractor.deps.json
+D:\Personal Project\ZipExtractor\ZipExtractor\bin\Release\net6.0\ZipExtractor.runtimeconfig.json
+D:\Personal Project\ZipExtractor\ZipExtractor\bin\Release\net6.0\ZipExtractor.dll
+D:\Personal Project\ZipExtractor\ZipExtractor\bin\Release\net6.0\ZipExtractor.pdb
+D:\Personal Project\ZipExtractor\ZipExtractor\obj\Release\net6.0\ZipExtractor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Project\ZipExtractor\ZipExtractor\obj\Release\net6.0\ZipExtractor.AssemblyInfoInputs.cache
+D:\Personal Project\ZipExtractor\ZipExtractor\obj\Release\net6.0\ZipExtractor.AssemblyInfo.cs
+D:\Personal Project\ZipExtractor\ZipExtractor\obj\Release\net6.0\ZipExtractor.csproj.CoreCompileInputs.cache
+D:\Personal Project\ZipExtractor\ZipExtractor\obj\Release\net6.0\ZipExtractor.dll
+D:\Personal Project\ZipExtractor\ZipExtractor\obj\Release\net6.0\refint\ZipExtractor.dll
+D:\Personal Project\ZipExtractor\ZipExtractor\obj\Release\net6.0\ZipExtractor.pdb
+D:\Personal Project\ZipExtractor\ZipExtractor\obj\Release\net6.0\ZipExtractor.genruntimeconfig.cache
+D:\Personal Project\ZipExtractor\ZipExtractor\obj\Release\net6.0\ref\ZipExtractor.dll
+D:\Gcube work\lms\ZipExtractor Utility\ZipExtractor\bin\Release\net6.0\ZipExtractor.exe
+D:\Gcube work\lms\ZipExtractor Utility\ZipExtractor\bin\Release\net6.0\ZipExtractor.deps.json
+D:\Gcube work\lms\ZipExtractor Utility\ZipExtractor\bin\Release\net6.0\ZipExtractor.runtimeconfig.json
+D:\Gcube work\lms\ZipExtractor Utility\ZipExtractor\bin\Release\net6.0\ZipExtractor.dll
+D:\Gcube work\lms\ZipExtractor Utility\ZipExtractor\bin\Release\net6.0\ZipExtractor.pdb
+D:\Gcube work\lms\ZipExtractor Utility\ZipExtractor\obj\Release\net6.0\ZipExtractor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gcube work\lms\ZipExtractor Utility\ZipExtractor\obj\Release\net6.0\ZipExtractor.AssemblyInfoInputs.cache
+D:\Gcube work\lms\ZipExtractor Utility\ZipExtractor\obj\Release\net6.0\ZipExtractor.AssemblyInfo.cs
+D:\Gcube work\lms\ZipExtractor Utility\ZipExtractor\obj\Release\net6.0\ZipExtractor.csproj.CoreCompileInputs.cache
+D:\Gcube work\lms\ZipExtractor Utility\ZipExtractor\obj\Release\net6.0\ZipExtractor.sourcelink.json
+D:\Gcube work\lms\ZipExtractor Utility\ZipExtractor\obj\Release\net6.0\ZipExtractor.dll
+D:\Gcube work\lms\ZipExtractor Utility\ZipExtractor\obj\Release\net6.0\refint\ZipExtractor.dll
+D:\Gcube work\lms\ZipExtractor Utility\ZipExtractor\obj\Release\net6.0\ZipExtractor.pdb
+D:\Gcube work\lms\ZipExtractor Utility\ZipExtractor\obj\Release\net6.0\ZipExtractor.genruntimeconfig.cache
+D:\Gcube work\lms\ZipExtractor Utility\ZipExtractor\obj\Release\net6.0\ref\ZipExtractor.dll
